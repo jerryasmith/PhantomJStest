@@ -1,0 +1,1 @@
+* * * * * phantomjs /users/jerryasmith/projects/phantomtest/rasterize.js http://jerryasmith.us/spark /users/jerryasmith/projects/phantomtest/spark.png
